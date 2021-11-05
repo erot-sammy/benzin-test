@@ -2,3 +2,5 @@ folder
 index.html
 gallery
 sections
+
+this is the new era in coding class under iTalanta academy
